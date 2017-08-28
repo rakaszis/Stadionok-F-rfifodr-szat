@@ -15,6 +15,10 @@ h6 {
     font-weight: 700;
 }
 
+#item_fading_in {
+	display: none;
+}
+
 .topnav {
     font-size: 14px; 
 }
@@ -109,7 +113,7 @@ h6 {
 }
 
 .banner {
-    padding: 100px 0;
+    padding: 0 0;
     color: #f8f8f8;
     background: url(img/stadionok-fodraszat_02.jpg) no-repeat center center;
     background-size: cover;
